@@ -1,0 +1,22 @@
+{
+  "invalidCredentials": {
+    "code": "1101",
+    "message": "Incorrect username or password. Please try again."
+  },
+  "loginAttempts": {
+    "code": "1102",
+    "message": "Your account will be locked after 5 more unsuccessful login attempts"
+  },
+  "invalidOriginDestination": {
+    "message": "Please enter either Origin or Destination"
+  },
+  "inValidOrigin": {
+    "message": "Invalid Origin."
+  },
+  "inValidDestination": {
+    "message": "Invalid Destination."
+  },
+  "onlyCharacters": {
+    "message": "Only alphabets are allowed."
+  }
+}

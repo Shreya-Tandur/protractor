@@ -1,0 +1,14 @@
+{
+    "Freebird": {
+        "certificationStatus": "You do not have a valid Jumpseat certification. Please take a test using 'Take a Test' link."
+    },
+    "Question1": {
+        "q1": "1. Excluding routine traffic citations (DWI/DUI matters are not considered routine traffic violations), have you been formally charged with or convicted with a crime in the last 10 years?"
+    },
+    "Question2": {
+        "q2": "2. In the last 10 years, have you been convicted of any crime?"
+    },
+    "Question3": {
+        "q3": "3. Are you presently under indictment, or a defendant, or do you have charges pending against you in any criminal proceeding?"
+    }
+}

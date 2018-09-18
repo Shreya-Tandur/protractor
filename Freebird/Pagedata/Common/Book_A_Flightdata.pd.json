@@ -1,0 +1,65 @@
+{
+    "Flight": {
+        "origin": "MEM",
+        "destination": "LAX",
+        "originName": "MEMPHIS INTL",
+        "destinationName": "LOS ANGELES INTL",
+        "FlightNumber": "1404"
+    },
+    "invalidData": {
+        "origin": "fffff",
+        "destination": "gggggg",
+        "numericalOrgin": "143773",
+        "numericalDestination": "8792135",
+        "invalidOrigin": "memmm",
+        "invalidDestination": "laxxx"
+    },
+    "returnFlight": {
+        "flightNumber": "1314",
+        "aircraftType": "B767",
+        "flightDate": "2018/03/21",
+        "flightTime": {
+            "gmt": {
+                "departure": "12:00 PM Z",
+                "arrival": "01:28 PM Z"
+            },
+            "local": {
+                "departure": "07:00 AM L",
+                "arrival": "08:28 AM L"
+            }
+        },
+        "showTime": {
+            "departure": "11:00 AM Z",
+            "arrival": "06:00 AM L"
+        }
+    },
+    "departureFlight": {
+        "flightNumber": "1404",
+        "aircraftType": "A300",
+        "Origin": "MEM",
+        "Destination": "LAX",
+        "Duration": "4h 6m",
+        "Type": "Non-stop",
+        "flightDate": "2018/04/13",
+        "flightTime": {
+            "gmt": {
+                "departure": "07:30 Z",
+                "arrival": "11:31 Z"
+            },
+            "local": {
+                "departure": "02:30 L",
+                "arrival": "04:36 L"
+            }
+        },
+        "showTime": {
+            "General": "06:30 Z"
+        },
+        "seat": "Open",
+        "leg": {
+            "cabin": "6",
+            "cockpit": "",
+            "blocked": "",
+            "standby": ""
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "validCredentials": {
+        "username": "43731",
+        "password": "43731"
+    },
+    "invalidCredentials": {
+        "username": "00000",
+        "password": "00000"
+    },
+    "Flight": {
+        "origin": "MEM",
+        "destination": "SAT"
+    }
+}
